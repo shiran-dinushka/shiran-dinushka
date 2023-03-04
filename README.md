@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shiran Dinushka
 - 👀 I’m interested in programming and mathematics
-- 🌱 I’m currently learning in University of Moratuwa for my undergraduate degree
+- 🌱 I’m currently reading for my undergraduate degree in University of Moratuwa 
 
 
 <!---
