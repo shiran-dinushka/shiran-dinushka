@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Shiran Dinushka
-
+---
 👩🏻‍💻 Currently working at LiveRoom as a Trainee Software Engineer<br/>
 🧑‍🎓 Studies Information Technology at university of Moratuwa, Sri Lanka <br/>
 ☘️ Interested in programming and mathematics<br/>
