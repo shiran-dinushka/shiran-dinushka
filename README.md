@@ -28,8 +28,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shiran-Dinushka&theme=tokyonight&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiran-Dinushka&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shiran-Dinushka&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
