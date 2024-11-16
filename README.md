@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Shiran Dinushka
 
-👩🏻‍💻 Currently working at LiveRoom as a Trainee Software Engineer<br/>
-🎓 Studies Information Technology at university of Moratuwa, Sri Lanka <br/>
+👩🏻‍💻 Formar Trainee Software Engineer at Liveroom<br/>
+🎓 Final year IT undergraduate at university of Moratuwa, Sri Lanka <br/>
 ☘️ Interested in programming and mathematics<br/>
-🍄 Currently working on project [WriterGate](https://github.com/shiran-dinushka/article-topic-platform.git)<br/>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shiran.dinu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiran_dinush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shiran-dinushka) 
