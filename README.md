@@ -3,6 +3,7 @@
 👩🏻‍💻 Formar Trainee Software Engineer at Liveroom<br/>
 🎓 Final year IT undergraduate at university of Moratuwa, Sri Lanka <br/>
 ☘️ Interested in programming and mathematics<br/>
+🎮 love play games in leasure time
 
 
 ## 🌐 Socials:
