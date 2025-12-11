@@ -18,7 +18,7 @@
 ## 💻 Tech Stack
 
 - 🧑‍💻 **Languages:** Java, Python, JavaScript, PHP  
-- 🎨 **Frontend:** HTML, CSS, React, Next.js, MUI  
+- 🎨 **Frontend:** HTML, CSS, React, Next.js, MUI, Tailwindcss  
 - 🗄️ **Databases:** MySQL, MongoDB  
 - 🛠️ **Tools:** Postman, Git, GitHub
 
