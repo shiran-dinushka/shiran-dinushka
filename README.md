@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Shiran Dinushka
 
 👩🏻‍💻 Former Trainee Software Engineer at **Liveroom**  
-🎓 **IT Graduate – University of Moratuwa** | Full-stack Developer  
+🎓 **IT Graduate – University of Moratuwa** | **Software Engineer** 
 👨‍💻 Passionate about building practical and scalable solutions using **JavaScript, React, Node.js**  
 🎯 **Hobbies:** Coding, gaming  
 💼 Currently seeking **Software Engineering opportunities** to kick-start my career  
