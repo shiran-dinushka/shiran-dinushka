@@ -8,8 +8,9 @@
 
 📫 **Reach me at:**
 
-- **Email    : [shirandinushka9@gmail.com](mailto:shirandinushka9@gmail.com)**
-- **LinkedIn : [Shiran Dinushka](https://linkedin.com/in/shiran-dinushka)**
+- **Email     : [shirandinushka9@gmail.com](mailto:shirandinushka9@gmail.com)**
+- **LinkedIn  : [Shiran Dinushka](https://linkedin.com/in/shiran-dinushka)**
+- **Portfolio : [Shiran Dinushka](https://shiran-dinushka.vercel.app/)**
 
   
 ---
